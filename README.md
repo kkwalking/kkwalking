@@ -1,5 +1,5 @@
-### Hi there 👋
- 希望有一天自己也能成为编程很厉害的人，也能称得上cool coder
+
+#### 希望有一天自己也能成为编程很厉害的人，也能称得上cool coder
 <!--
 **shzyjbr/shzyjbr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
