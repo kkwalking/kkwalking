@@ -1,5 +1,5 @@
 
-#### 希望有一天自己也能成为编程很厉害的人，也能称得上cool coder
+#### 主要掌握语言是Java，兴趣是桌面开发，目前正在写一个Redis GUI
 <!--
 **shzyjbr/shzyjbr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
