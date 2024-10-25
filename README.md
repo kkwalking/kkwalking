@@ -1,5 +1,5 @@
 
-#### 主要掌握语言是Java，对写一些桌面工具软件也很感兴趣，目前正在写一个Redis GUI
+#### 主要掌握语言是Java，专注服务端，同时对写一些桌面工具软件也很感兴趣
 <!--
 **shzyjbr/shzyjbr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
